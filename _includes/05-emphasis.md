@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I like to code in **Python** as it's _easy_ and _helps me_ implementing stuff in very less time.
+I have made some projects like ***Stock Image Site***, ***Social Media Platform for Artists***, ***Infinite Quiz App*** and wrote scripts for *automating* stuff like *Getting Proxy list* from a proxy site and for *Searching files in a Computer* in **Python** Language. Besides coding, I also like to *produce music* in **FL Studio** whenever i get time to.
